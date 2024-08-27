@@ -1,0 +1,21 @@
+{
+  "Author": "Wully",
+  "Name": "W Controller Input Fix",
+  "InternalName": "WControllerInputFix",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Disables controller input when the game is not active.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "controller",
+    "input",
+    "fix",
+    "plugin"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Stops you from running around like a headless chicken when tabbed out",
+  "AcceptsFeedback": true
+}
